@@ -1,0 +1,14 @@
+{
+    "name": "wilson/php_c-url",
+    "description": "Trabajo",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "authors": [
+        {
+            "name": "Wilson Pulido",
+            "email": "wepulido2@misena.edu.co"
+        }
+    ]
+}
